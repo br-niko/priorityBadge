@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="21.2" viewBox="0 0 97 21.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0037ff;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+        fill: #fff;
+        font-family: AvenirNext-Medium, Avenir Next;
+        font-weight: 500;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="97" height="20" rx="5"/>
+      <text class="cls-2" transform="translate(4.6 14.6)">Impo<tspan class="cls-3" x="39.9" y="0">r</tspan><tspan x="46.1" y="0">tante</tspan></text>
+    </g>
+  </g>
+</svg>

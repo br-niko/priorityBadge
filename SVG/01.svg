@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22.2" viewBox="0 0 22 22.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff004f;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+        fill: #fff;
+        font-family: AvenirNext-Medium, Avenir Next;
+        font-weight: 500;
+        letter-spacing: 0.06em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="22" height="20" rx="5"/>
+      <text class="cls-2" transform="translate(6.6 15.6)">1</text>
+    </g>
+  </g>
+</svg>
