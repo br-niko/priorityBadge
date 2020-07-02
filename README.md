@@ -20,3 +20,7 @@ List of custom badges to be inserted in markdown files
 ![importante](https://raw.githubusercontent.com/br-niko/priorityBadge/831b82518570e10aafd1c462b84619249321b4f6/SVG/importante.svg)
 
 `![importante](https://raw.githubusercontent.com/br-niko/priorityBadge/831b82518570e10aafd1c462b84619249321b4f6/SVG/importante.svg)`
+
+![whatsapp](https://raw.githubusercontent.com/br-niko/priorityBadge/master/IMG/wab.png)
+
+`![whatsapp](https://raw.githubusercontent.com/br-niko/priorityBadge/master/IMG/wab.png)`
